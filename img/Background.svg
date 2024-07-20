@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="102.10059mm"
+   height="31.463875mm"
+   viewBox="0 0 102.10059 31.463875"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" /><defs
+     id="defs1"><inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,22.882706,0,1 @ F,0,1,1,0,6.9380221,0,1 @ F,0,0,1,0,10.722399,0,1 @ F,0,0,1,0,25.681264,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" /></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-53.979173,-132.76806)"><path
+       style="fill:#ff6600;stroke:#ffffff"
+       d="m 508.87805,349.7956 0,89.25941 a 6.9380221,6.9380221 135 0 1 -6.93802,6.93802 l -367.23157,0 a 10.722399,10.722399 45 0 1 -10.7224,-10.7224 l 0,-62.60679 a 27.055269,27.055269 133.50754 0 1 25.64642,-27.01856 l 336.39391,-17.54082 a 21.720605,21.720605 43.507545 0 1 22.85166,21.69114 z"
+       id="path1"
+       inkscape:path-effect="#path-effect2"
+       inkscape:original-d="M 508.87805,326.91289 V 445.99303 H 123.98606 v -99.01045 z"
+       transform="matrix(0.26458333,0,0,0.26458333,21.306823,46.097328)" /></g></svg>
